@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 755 /root/alx-system_engineering-devops/0x01-shell_permissions -type d
+$ find /root/alx-system_engineering-devops/0x01-shell_permissions  -type d -exec chmodu=rwx,go=rx {} \;
