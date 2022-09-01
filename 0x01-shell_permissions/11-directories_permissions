@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod -R 755 $(find /path/to/base/dir -type d)
-chmod -R 644 $(FIND /path/to/base/dir -type f)
+chmod -R 755 $(find /root/alx-system_engineering-devops/0x01-shell_permissions -type d)
