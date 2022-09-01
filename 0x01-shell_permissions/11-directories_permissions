@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u+rwx,g+rx,o+rx $(find /root/alx-system_engineering-devops/0x01-shell_permissions -type d)
+chmod -R 755 $ find /root/alx-system_engineering-devops/0x01-shell_permissions -type d
