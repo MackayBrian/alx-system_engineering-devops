@@ -1,2 +1,3 @@
 #!/bin/bash
 chmod -R 755 $(find /path/to/base/dir -type d)
+chmod -R 644 $(FIND /path/to/base/dir -type f)
