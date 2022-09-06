@@ -1,1 +1,2 @@
-VimCrypt~03!†“/¤	¦Ù <Œ«æa¸n‘.Â÷3q†\f…·ªì~NÑOXÏí­\5á®ÈöRç]…a*â
+#!/bin/bash
+echo "cC" | tr -d 'cC'
